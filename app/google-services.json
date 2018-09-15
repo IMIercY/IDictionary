@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "320161526092",
+    "firebase_url": "https://idictionary-3e488.firebaseio.com",
+    "project_id": "idictionary-3e488",
+    "storage_bucket": "idictionary-3e488.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320161526092:android:af5da50c3f79fc52",
+        "android_client_info": {
+          "package_name": "com.mercy.idictionary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320161526092-sjnij85tdbapal2jte81i91a2g3b0m4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCekvG0jFscnDoCVd4whxFSEZz85MVgvDE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
