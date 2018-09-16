@@ -2,6 +2,8 @@
     <string name="app_name">IDictionary</string>
     <string name="dictionary">Dictionary</string>
     <string name="define_here">Define Here :</string>
+    <string name="search">Search</string>
+    <string name="err_loading_word">Error while getting data</string>
     <string-array name="word_in_dictionary">
         <item>A,a</item>
         <item>B,b</item>

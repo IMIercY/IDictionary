@@ -1,6 +1,9 @@
-package com.mercy.idictionary.Model;
+package com.mercy.idictionary.models;
 
-public class FirebaseModel {
+import java.io.Serializable;
+
+public class Word implements Serializable {
+
     private String titleFire;
     private String contentsFire;
 
@@ -20,10 +23,13 @@ public class FirebaseModel {
         this.contentsFire = contentsFire;
     }
 
-    public FirebaseModel() {}
+    public Word() {
+    }
 
-    public FirebaseModel(String titleFire, String contentsFire) {
+    public Word(String titleFire, String contentsFire) {
         this.titleFire = titleFire;
         this.contentsFire = contentsFire;
     }
+
+    // end of file
 }

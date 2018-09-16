@@ -1,4 +1,4 @@
-package com.mercy.idictionary.Model;
+package com.mercy.idictionary.models;
 
 public class MainModel {
     private String title;
